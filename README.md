@@ -1,5 +1,5 @@
 # A/B Testing Project
-This project was made while I was taking part in School of Analytics Hackathon 2023. In the following, you'll see the spec of the case.
+This project was made as I was taking part in School of Analytics Hackathon 2023. In the following, you'll see the spec of the case.
 
 ## Introduction
 AdTech agency TechDesign, which provides solutions in the field of advertising technologies, has developed a new model for calculating the rate (i.e. cost per click) for ads for an advertising campaign. As an alternative to the existing “Maximum Bet” bidding model, the company introduced a new advertising solution – the “Average Bet” bidding model.
