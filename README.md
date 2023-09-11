@@ -1,4 +1,4 @@
-# A/B Testing
+# A/B Testing Project
 This project was made while I was taking part in School of Analytics Hackathon 2023. In the following, you'll see the spec of the case.
 
 ## Introduction
