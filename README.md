@@ -17,13 +17,13 @@ Task 5. Calculating key metrics. Assessment of the statistical significance of t
 # Data
 Data collected within 30 days of the start of the experiment is contained in the file “test_group.csv”. The file "control_group.csv" contains data of users included in the control group. The description and data type of the variables are given in the table below:
 
-Name | Data Type | Description
-Campaign Name | object | division into experimental and control groups Date object # date of the advertising campaign
-Total Advertising Spend (USD) | int64 | advertising costs
-Total Impressions Count | int64 | user viewing an advertisement
-Total Reach Count | int64 | unique users who viewed the ad
-Total Clicks on Website | int64 | users who accessed the site via a link in an advertisement
-Total Searches Initiated | int64 | the user performs a search on the site
-Total View Content Actions | int64 | user viewing product details
-Total Add to Cart Actions | int64 | user adding an item to the cart
-Total Purchases Count | int64 | user purchase of goods
+Name | Data Type | Description <br>
+Campaign Name | object | division into experimental and control groups Date object # date of the advertising campaign <br>
+Total Advertising Spend (USD) | int64 | advertising costs <br>
+Total Impressions Count | int64 | user viewing an advertisement <br>
+Total Reach Count | int64 | unique users who viewed the ad <br>
+Total Clicks on Website | int64 | users who accessed the site via a link in an advertisement <br>
+Total Searches Initiated | int64 | the user performs a search on the site <br>
+Total View Content Actions | int64 | user viewing product details <br>
+Total Add to Cart Actions | int64 | user adding an item to the cart <br>
+Total Purchases Count | int64 | user purchase of goods <br>
