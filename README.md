@@ -6,12 +6,13 @@ AdTech agency TechDesign, which provides solutions in the field of advertising t
 After introducing the new option, the eStore company, which is one of the agency’s clients and conducts a retargeting advertising campaign using the “Maximum Bid” model, decided to test an alternative calculation model.
 In order to make a comparison between the “Average Rate” and “Maximum Rate” calculation models, eStore conducted A/B testing over the next month. As part of this case, I will have to analyze the results of A/B testing and submit an analytical report to the company’s management. I have received data with the results of an A/B test and want to make sure that the experiment was carried out correctly and the result was statistically reliable.
 
+# My Steps 
 First things first, I have determined the following steps for myself (which all can be viewed in .ipynb file): <br>
 Task 1. Checking the division of observations into experimental and control groups based on data obtained after the experiment. <br>
-Task 2. Calculation of metrics based on data obtained after the experiment. Checking normality of distribution.
-Task 3. Formulating a hypothesis. Selection of a statistical criterion for testing a hypothesis.
-Task 4. Defining parameters for A/B groups. Conducting an A/A test to evaluate parameters. Checking the representativeness and homogeneity of samples
-Task 5. Calculating key metrics. Assessment of the statistical significance of the results obtained. Estimation of errors of the first and second types.
+Task 2. Calculation of metrics based on data obtained after the experiment. Checking normality of distribution. <br>
+Task 3. Formulating a hypothesis. Selection of a statistical criterion for testing a hypothesis. <br>
+Task 4. Defining parameters for A/B groups. Conducting an A/A test to evaluate parameters. Checking the representativeness and homogeneity of samples <br>
+Task 5. Calculating key metrics. Assessment of the statistical significance of the results obtained. Estimation of errors of the first and second types. 
 
 # Data
 Data collected within 30 days of the start of the experiment is contained in the file “test_group.csv”. The file "control_group.csv" contains data of users included in the control group. The description and data type of the variables are given in the table below:
